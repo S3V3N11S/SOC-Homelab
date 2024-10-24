@@ -19,7 +19,7 @@ This homelab setup is designed to simulate a secure and monitored network enviro
 
 3. **Intrusion Detection/Prevention System (Suricata)**:
    - **Role**: Monitors and inspects network traffic in real-time for malicious activity and anomalies.
-   - **Deployment**: Installed on **pfSense** in **inline mode** to actively block suspicious traffic.
+   - **Deployment**: Installed on **OPNSense** in **inline mode** to actively block suspicious traffic.
    - **Features**: Monitors for ARP spoofing, scans, and other network-based attacks.
 
 4. **Security Information and Event Management (Wazuh)**:
